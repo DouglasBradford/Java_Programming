@@ -26,9 +26,6 @@ Camel Case:
 	JavaProgramming
 
 
-Come back at:
-	2:10 pm
-
 src folder: used for storing java packages
 
 package: Used for storing Java Files
