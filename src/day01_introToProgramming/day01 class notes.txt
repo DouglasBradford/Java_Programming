@@ -55,7 +55,7 @@ Shortcut:
 		2. hit "Enter"
 
 	formatting the codes in intelliJ:
-		windows users:
+		Windows users:
 			Ctrl + alt +L
 
 		Mac users:
